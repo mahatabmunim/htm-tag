@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+abbr{
+    font-style: italic;
+    color: coral;
+}
+.cap{
+    color: rgb(214, 51, 10);
+}
